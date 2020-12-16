@@ -1,2 +1,2 @@
-# MagiProj
-练习项目
+# TypeScript
+TypeScript 练习项目
