@@ -1,2 +1,2 @@
-# MagiProj
-练习项目
+# Vue
+Vue 练习项目
