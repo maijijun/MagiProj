@@ -1,2 +1,2 @@
-# MagiProj
-练习项目
+# Scala
+Scala 练习项目
